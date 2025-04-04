@@ -7,7 +7,7 @@ resource "aws_instance" "example" {
   ami           = "ami-0e35ddab05955cf57"
 
   tags = {
-    Name = "Rohit"
+    Name = "Rohittt"
   }
 }
 
